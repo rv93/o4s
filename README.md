@@ -1,4 +1,4 @@
 # Run Instructions
 
-$ cd assignment
-$ sh init_script.sh
+cd assignment
+sh init_script.sh
